@@ -41,6 +41,8 @@ clang .\output\program.ll -o .\program.exe
 ``` bash
 echo $LastExitCode
 ``` 
-# Tutorial en Video
+# Video explicativo
+[![Watch the video](https://img.youtube.com/vi/y82JVVFPGqE/0.jpg)](https://www.youtube.com/watch?v=y82JVVFPGqE)
 
-Enlace al video explicativo (el video se encuentra cargando)
+
+https://www.youtube.com/watch?v=y82JVVFPGqE
