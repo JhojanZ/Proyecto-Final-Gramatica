@@ -1,0 +1,4 @@
+./output/*
+program.exe
+./traductor/__pycache__/*
+./gramatica/__pycache__/*

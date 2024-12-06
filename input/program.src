@@ -1,0 +1,7 @@
+funcion sum(x, y) {
+   return x * y;
+}
+
+funcion main() {
+    return sum(2, 5 + -3);
+}

@@ -1,0 +1,16 @@
+# Para iniciar el proyecto debes instalar
+
+pip install lark
+pip install pydot
+pip install dot
+
+https://graphviz.org/download/
+https://releases.llvm.org/
+
+# Y despues ejecuta 
+
+python.exe .\main.py .\input\program.src
+clang .\output\program.ll -o .\program.exe
+.\program.exe
+echo $LastExitCode        
+

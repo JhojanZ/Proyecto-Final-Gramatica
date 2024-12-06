@@ -1,0 +1,11 @@
+funcion __par__(x) {
+    if(x > 3){
+        return __par__(x - 4);
+    }else{
+        return x + 3;
+    }
+}
+
+funcion main() {
+    return __par__(10-1);
+}
