@@ -1,6 +1,6 @@
 # Compilador para Lenguaje de Alto Nivel a LLVM IR
 
-Este proyecto tiene como objetivo desarrollar un lenguaje de alto nivel y su compilador, que traduce el código fuente al lenguaje LLVM IR. Luego, puedes ejecutar el programa traducido utilizando herramientas como Clang.
+Este proyecto tiene como objetivo desarrollar un lenguaje de alto nivel y su compilador, que traduce el código fuente al lenguaje LLVM. Luego se ejecuta el programa traducido utilizando la herramienta Clang.
 
 ## Integrantes
 - **Bryan Steven Muñoz Guevara**
